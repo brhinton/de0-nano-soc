@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /* run.c - Process creation via fork(). fork a series of children
  *  and then call functions through array of pointers in each child.
  *  child processes will run in no particular order.  sequential execution
